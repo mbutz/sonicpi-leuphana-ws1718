@@ -2,7 +2,7 @@
 
 Die mit "Referat" gekennzeichneten Themen sind Beiträge (Seminarleistungen) der TeilnehmerInnen. Zur Vorbereitung der Referate sollten die angegebenen Ressourcen ausgewertet werden. Natürlich können Sie zusätzlich auch auf eigene Quellen zurückgreifen. Alle weiteren genannten Themen werden vom Dozenten vorbereitet.
 
-Weiterhin wird je Sitzung eine Übungsaufgabe bis zur nächsten Sitzung gestellt. Die Aufgabe hilft Ihnen dabei den Gebrauch grundlegender Features und Funktionen einzuüben. In der jeweiligen Folgesitzungen werden die Ergebnisse von zwei bis drei TeilnehmerInnen vorgestellt.
+Weiterhin wird je Sitzung eine Übungsaufgabe bis zur nächsten Sitzung gestellt ('Hausaufgabe'). Die Aufgabe hilft Ihnen dabei den Gebrauch grundlegender Features und Funktionen einzuüben. In der jeweiligen Folgesitzungen werden die Ergebnisse von einem/r TeilnehmerInnen vorgestellt.
 
 Jede Session (mit Ausnahme der ersten und der letzten) besteht aus folgenden Teilen:
 
@@ -21,7 +21,6 @@ Datum: 17.10.2017
 - Demo: Sonic Pi
 - Organisatorisches
 - Erste Klänge (`play`, `sleep`, `live_loop`')
-- Hausaufgabe
 
 ### Ressourcen
 
@@ -33,9 +32,9 @@ Datum: 17.10.2017
 
 Datum: 31.10.2017
 
+- Präsentation der Hausaufgabe vom 17.10.
 - Referat: Synthesizer (Grundlagen, Bestand in Sonic Pi)
 - `live_loop`, `tick`, `look`
-- Hausaufgabe
 - Pair Programming
 
 ### Referat
@@ -63,6 +62,7 @@ Datum: 31.10.2017
 
 Datum: 14.11.2017
 
+- Präsentation der Hausaufgabe vom 31.10.
 - Referat: Samples in Sonic Pi (Einbindung, Parameter, externe Samples)
 - Nach Absprache im Seminar: Tonmaterial, Skalen, Akkorde (kurze Einführung in die Musiktheorie mit Sonic Pi)
 - Pair Programming
@@ -73,8 +73,6 @@ Datum: 14.11.2017
     - Grundbegriffe
     - Samples in Sonic Pi (Bestand, Parameter, Beispiele)
     - Einbindung externer Samples
-- Hausaufgabe
-- Pair Programming
 
 ### Ressourcen
 
@@ -85,10 +83,10 @@ Datum: 14.11.2017
 
 Datum: 28.11.2017
 
+- Präsentation der Hausaufgabe vom 14.11.
 - Referat: Filter und Effekte in Sonic Pi
 - Verwendung von `control`
 - Synchronisation von Live-Loops (Codebeispiele mit Erläuterungen)
-- Hausaufgabe
 - Pair Programming
 
 ### Referat
@@ -107,9 +105,9 @@ Datum: 28.11.2017
 
 Datum: 12.12.2017
 
+- Präsentation der Hausaufgabe von 28.11.
 - Referat: Elektronische Musik am Beispiel von "Kontakte" von Karlheinz Stockhausen
 - Wiederholung des Materials aus vorhergehenden Sessions (Tonfolgen, Effekte, `live_loop`, `in_thread` etc.)
-- Hausaufgabe
 - Pair Programming
 
 ### Referat
@@ -125,9 +123,9 @@ Datum: 12.12.2017
 
 Datum: 09.01.2018
 
+- Präsentation der Hausaufgabe von 12.12.
 - Referat: Elektronische Musik II, "Advice to clever children": Aphex Twin, Plasticman, Scanner, Daniel Pemberton u.a.
 - Musikalische Analyse und Nachbau in Sonic Pi ([SonicVisualizer](https://github.com/mbutz/sonicpi-leuphana-ws1617/tree/master/sonic-visualiser), Codebeispiele und Erläuterungen zu Nachbau von [Digital Bubblebath](https://www.youtube.com/watch?v=Fy8h3kSef1E)/[Nachbau](https://soundcloud.com/mbutz/digital-bubblebath) und [Otaku](https://www.youtube.com/watch?v=OYusX7V1SaI)/[Nachbau](https://soundcloud.com/mbutz/otaku-1-from-series-rec-with-sonic-pi))
-- Hausaufgabe
 - Pair Programming
 
 ### Referat
@@ -143,10 +141,10 @@ Datum: 09.01.2018
 
 Datum: 23.01.2018
 
+- Präsentation der Hausaufgabe vom 09.01.
 - Vorstellung der vorläufigen Arbeitsergebnisse
 - Rekapitulation
 - Offene Fragen
-
 
 ## Allgemeine Ressourcen
 
