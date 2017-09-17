@@ -1,7 +1,7 @@
 # Ästhetik, Regel, Klang
 ## Musikprogrammierung mit Sonic Pi
 
-Code, Ressourcen und Dokumentationen zum Projektseminar an der Leuphana Universität Lüneburg, Wintersemester 2016/17
+Code, Ressourcen und Dokumentationen zum Projektseminar an der Leuphana Universität Lüneburg, Wintersemester 2017/18
 
 [Zur Sessionübersicht](https://github.com/mbutz/sonicpi-leuphana-ws1718/blob/master/session-overview.md)
 
