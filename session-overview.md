@@ -190,6 +190,8 @@ Amplitude Modulation. An interactive demo which enables you to both see and hear
 
 **Akustik, Klang, Musiktheorie**
 
+How Music Works: Acoustics for Musicians, http://www.thejazzpianosite.com/how-music-works
+
 Music Theory for Musicians and Normal People, Toby W. Rush, http://tobyrush.com/theorypages/
 
 Professional music theory: an outline of basic music theory, by Oscar van Dillen ©2011-2016, http://www.oscarvandillen.com/outline_of_basic_music_theory/
@@ -202,6 +204,8 @@ http://www.musictheory.net/lessons/57
 Drum patterns and exercises, http://www.ethanhein.com/wp/my-nyu-masters-thesis/drum-patterns-and-exercises/
 
 Dance Music Rudiments, Free E-Book with Audio Examples and Midi Files, http://users.skynet.be/shedo/DMR1/Index.htm
+
+Equalization 101 – Everything Musicians Need to Know About EQ, http://flypaper.soundfly.com/produce/equalization-101-everything-musicians-need-know-eq/
 
 **Kreativität & Ästhetik**
 
@@ -226,10 +230,6 @@ Alexandre rANGEL 'bit crusher' Sonic Pi live coding, https://www.youtube.com/wat
 
 Live coding dub techno in Sonic Pi von Jindřich Mynarz, https://www.youtube.com/watch?v=a1RxpJkvqpY
 
-The Wood-Song: Ambient Live Coding Exercise with Sonic Pi, M.Butz, https://www.youtube.com/watch?v=3zGt-1JSfgA
-
-Live Coding with Sonic Pi, M. Butz, https://www.youtube.com/watch?v=80Sw7G-4nno
-
-Personal Live Coding Challenge #2, M. Butz, https://www.youtube.com/watch?v=WOaLgQ_p2S0
+Martin Butz, (mostly) Live coded tracks, https://www.youtube.com/channel/UCT_roO1KTLkJTO-4qQPe_kg; tracks made with Sonic Pi and some postproduction, https://soundcloud.com/mbutz/tracks
 
 Toplap - Home of Live Coding, http://toplap.org/
