@@ -180,6 +180,8 @@ The Bedroom Producers Blog, an online magazine about cheap and affordable music 
 
 **Akustik, Synthesizer, Klangsynthese**
 
+Additive synthese waveform generator, https://meettechniek.info/additional/additive-synthesis.html
+
 63 Detaillierte Synthese-Tutorials von Sound on Sound, http://sonicbloom.net/de/63-detaillierte-synthese-tutorials-sound-on-sound/
 
 How do Synthesizers work, http://www.explainthatstuff.com/synthesizers.html, (basale aber gut verständliche Einführung)
