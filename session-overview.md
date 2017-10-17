@@ -152,7 +152,7 @@ Homepage von Sonic Pi: http://sonic-pi.net/
 
 Anlaufstelle für Entwickler: https://github.com/samaaron/sonic-pi 
 
-Offizielles Forum: https://in-thread.sonic-pi.net
+Offizielle Sonic-Pi-Community: https://in-thread.sonic-pi.net
 
 ## Allgemeine Ressourcen
 
