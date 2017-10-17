@@ -34,6 +34,7 @@ Desweiteren bietet das Seminar Gelegenheit, sich mit den folgenden Fragen und Th
 
 * [Offizielle Website und Download](http://sonic-pi.net/)
 * [Github: Entwicklerplattform](https://github.com/samaaron/sonic-pi)
+* [Offizielle Forumsseite](https://in-thread.sonic-pi.net)
 * [Google Groups - Community zu Sonic Pi](https://groups.google.com/forum/#!forum/sonic-pi)
 
 [Zur Sessionübersicht](https://github.com/mbutz/sonicpi-leuphana-ws1718/blob/master/session-overview.md)

@@ -146,6 +146,14 @@ Datum: 23.01.2018
 - Rekapitulation
 - Offene Fragen
 
+## Sonic Pi
+
+Homepage von Sonic Pi: http://sonic-pi.net/
+
+Anlaufstelle für Entwickler: https://github.com/samaaron/sonic-pi 
+
+Offizielles Forum: https://in-thread.sonic-pi.net
+
 ## Allgemeine Ressourcen
 
 (wird laufend ergänzt)
