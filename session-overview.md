@@ -240,6 +240,9 @@ Alexandre rANGEL 'bit crusher' Sonic Pi live coding, https://www.youtube.com/wat
 
 Live coding dub techno in Sonic Pi von Jindřich Mynarz, https://www.youtube.com/watch?v=a1RxpJkvqpY
 
+Earth To Abigail, Jungle Rhythms - Live Coding Session with Sonic Pi
+https://m.youtube.com/watch?v=AuNNYn2BQYU
+
 Martin Butz, (mostly) Live coded tracks, https://www.youtube.com/channel/UCT_roO1KTLkJTO-4qQPe_kg; tracks made with Sonic Pi and some postproduction, https://soundcloud.com/mbutz/tracks
 
 Toplap - Home of Live Coding, http://toplap.org/
