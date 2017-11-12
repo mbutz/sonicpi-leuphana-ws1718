@@ -198,6 +198,8 @@ The Physics Hypertextbook. Music & Noise, Glenn Elert, http://physics.info/music
 
 Amplitude Modulation. An interactive demo which enables you to both see and hear the result of multiplying a sine wave with a cosine amplitude envelope, https://academo.org/demos/amplitude-modulation/
 
+An Introduction to FM Synthesis,  http://flypaper.soundfly.com/produce/an-introduction-to-fm-synthesis/
+
 **Akustik, Klang, Musiktheorie**
 
 How Music Works: Acoustics for Musicians, http://www.thejazzpianosite.com/how-music-works
@@ -217,12 +219,18 @@ Dance Music Rudiments, Free E-Book with Audio Examples and Midi Files, http://us
 
 Equalization 101 – Everything Musicians Need to Know About EQ, http://flypaper.soundfly.com/produce/equalization-101-everything-musicians-need-know-eq/
 
+**Midi & OSC (Open Sound Control)
+
+This MIDI tutorial will help you to understand how you can use the MIDI language to control any device that uses the MIDI protocol, http://www.music-software-development.com/midi-tutorial.html
+
 **Kreativität & Ästhetik**
 
 DeSantis, Dennis (2015): Making Music. 74 Creative Strategies for Electronic Music Producers, Berlin: Ableton.
 
 Bense, Arne (2016): Live – eine gelöschte Unterscheidung, Blogbeitrag vom 12.08.2016, letzter Abruf am: 10.10.2016, https://netzpolitik.org/2016/live-eine-geloeschte-unterscheidung/
 Was bedeutet eigentlich „live“? Obwohl die Beantwortung dieser Frage alles andere als trivial ist, geistert der Begriff durch die Welt der elektronischen Musik und trennt die Szene in elektronische Live- und DJ-Culture.
+
+Drum Patterns for Electronic Music, http://subaqueousmusic.com/drum-patterns-for-electronic-music/
 
 **Live Coding**
 
