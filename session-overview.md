@@ -58,13 +58,14 @@ Datum: 31.10.2017
 - ADSR envelope synth tutorial part B: https://www.youtube.com/watch?v=9niampRkFW0&index=3&list=PL0CF041F562C5BE5E
 - A Young Person's Guide to the Principles of Music Synthesis by Beau Sievers http://beausievers.com/synth/synthbasics/
 
-## Session 3: Samples in Sonic Pi, Musiktheorie
+## Session 3: Samples in Sonic Pi, Live_Loop-Synchronisation
 
 Datum: 14.11.2017
 
 - Präsentation der Hausaufgabe vom 31.10.
 - Referat: Samples in Sonic Pi (Einbindung, Parameter, externe Samples)
-- Nach Absprache im Seminar: Tonmaterial, Skalen, Akkorde (kurze Einführung in die Musiktheorie mit Sonic Pi)
+- Sample-Parameter und Slicing
+- Synchronisation von Live-Loops (Codebeispiele mit Erläuterungen)
 - Pair Programming
 
 ### Referat
@@ -79,14 +80,14 @@ Datum: 14.11.2017
 - Sonic Pi-Hilfe zu `sample` etc. und Tutorial "3 Samples"
 - "Can I Get Another Amen", Dokumentarfilm über den Amen Break von Nate Harrison, https://archive.org/details/NateHarrisonCanIGetAnAmen
 
-## Session 4: Filter und Effekte in Sonic Pi
+## Session 4: Filter und Effekte in Sonic Pi, Musiktheorie
 
 Datum: 28.11.2017
 
 - Präsentation der Hausaufgabe vom 14.11.
 - Referat: Filter und Effekte in Sonic Pi
 - Verwendung von `control`
-- Synchronisation von Live-Loops (Codebeispiele mit Erläuterungen)
+- Nach Absprache im Seminar: Tonmaterial, Skalen, Akkorde (kurze Einführung in die Musiktheorie mit Sonic Pi)
 - Pair Programming
 
 ### Referat
