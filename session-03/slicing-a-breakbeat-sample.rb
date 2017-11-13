@@ -6,7 +6,7 @@ use_bpm 120
 # 4 bars = 16 beats
 # Original speed is 120 bpm
 
-s = orig_breakbeats, "dusk"
+s =  "/home/marty/projects/sonicpi/leuphana-ws1718/online/session-03/4bars_120bpm.wav"
 
 live_loop :orig do
   stop
@@ -109,9 +109,45 @@ end
 # onset
 ###################
 live_loop :onset do
-  #stop
+  stop
   #8.times do
-  sample s, beat_stretch: 16, onset: pick #, start: 0, finish: 0.125
+  sample s, beat_stretch: 16, onset: pick
   sleep 0.5
   #end
 end
+
+# Use 'onset' to collect individual shots and create a new drum beat
+comment do
+  live_loop :bass do
+    #stop
+    b = (ring
+         1,0.5,0,0, 1,0,1,0.25, 0.5,0.25,1,0, 0.25,0.75,0,0.25
+         )
+    tick
+    sample s, beat_stretch: 16, onset: 0, amp: b.look if b.look > 0
+    sleep 0.5
+  end
+
+  live_loop :hihat, sync: :bass do
+    #stop
+    h = (ring 0,0.5,0,1, 0,1,0,0.5, 0,0.5,0,1, 0,0.5,0,1)
+    tick
+    sleep 0.5
+    sample s, beat_stretch: 16, onset: 1, amp: h.look if h.look > 0
+  end
+
+  live_loop :hihat_plus, sync: :bass do
+    #stop
+    sample s, beat_stretch: 16, onset: 7, amp: rrand(0.25,0.5), rate: -1
+    sleep 0.5
+  end
+
+  live_loop :snare, sync: :bass do
+    #stop
+    sleep 1
+    with_fx :reverb, room: 0.5 do
+      sample s, beat_stretch: 16, onset: 14, amp: 0.5 # 5 8 14
+    end
+    sleep 1
+  end
+end #comment
