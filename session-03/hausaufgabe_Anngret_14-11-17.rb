@@ -1,4 +1,4 @@
-#Drum Beat 12.11.17
+# Anngret: Hausaufgabe 14.11.17
 
 use_bpm 120
 
@@ -24,4 +24,4 @@ end
 live_loop :akzent do
   sample :drum_roll, amp: 0.05, sustain: 2, release: 0.5
   sleep 8
-end
+  end

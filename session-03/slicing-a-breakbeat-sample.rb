@@ -6,10 +6,13 @@ use_bpm 120
 # 4 bars = 16 beats
 # Original speed is 120 bpm
 
+# NOTE: After downloading the sample from:
+# https://github.com/mbutz/sonicpi-leuphana-ws1718/blob/master/session-03/4bars_120bpm.wav
+# do not forget to adjust the following path!
 s =  "/home/marty/projects/sonicpi/leuphana-ws1718/online/session-03/4bars_120bpm.wav"
 
 live_loop :orig do
-  stop
+  #stop
   sample s, beat_stretch: 16
   sleep 16
 end
