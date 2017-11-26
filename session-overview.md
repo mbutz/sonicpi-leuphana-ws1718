@@ -86,7 +86,8 @@ Datum: 28.11.2017
 
 - Präsentation der Hausaufgabe vom 14.11.
 - Referat: Filter und Effekte in Sonic Pi
-- Verwendung von `control`
+- Synchronisation von `live_loops`
+- Linearer Ablauf mit `in_thread`
 - Nach Absprache im Seminar: Tonmaterial, Skalen, Akkorde (kurze Einführung in die Musiktheorie mit Sonic Pi)
 - Pair Programming
 
