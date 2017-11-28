@@ -121,9 +121,7 @@ define :kick do
   in_thread do
     bd = (ring 2, 0, 0, 0, 2, 0, 0, 0.5, 2, 0, 0, 0, 2, 0.5, 0, 1)
     64.times do
-      if bd.tick != 0
-        sample :bd_haus, amp: bd.look
-      end
+      sample :bd_haus, amp: bd.look if bd.tick != 0
       sleep 0.25
     end
   end
