@@ -21,24 +21,31 @@ use_bpm 120
 #-----------------------------------------------------
 
 # Note:
-# How short or how long your blend will be depends
+# How short or how long your blend depends on
 # 1. The amount of values resp. the stepsize of your `range`/`line`
 # 2. The duration of your `live_loop`
 
-# This is probably more intuitive because you define the amount of steps
-# rather than the step size: if you have a `live_loop` running 0.25 beats
-# long 16 steps = 1 bar will bring the volume from 0 to 1 (so if your blend
-# should take 4 bars to go from 0 to 1 you'll have to set 64 steps).
+# The use of 'range' is probably more intuitive because you define the amount of steps rather than the step size: if you have a `live_loop` running 0.25 beats long 16 steps = 1 bar will bring the volume from 0 to 1 (so if your blend should take 4 bars to go from 0 to 1 you'll have to set 64 steps).
+
+#vol = (ring 0.125, 0.25, 0.5, 0.75, 1).mirror
+# live_loop :amen do
+#   #stop
+#   sample :loop_amen, beat_stretch: 4, amp: vol.tick
+#   sleep 4
+# end
 
 #-----------------------------------------------------
 # Blending using `line`
 #-----------------------------------------------------
 
+#vol = (line 0, 1, inclusive: true, steps: 100).ramp
+#puts vol
+
 # blend in
 live_loop :blend_in_with_line_ramp do
-  stop
-  vol = (line 0, 1, inclusive: true, steps: 100).ramp
-  ptn = (ring 1,0,0,0,1,0,0,0.25,1,0,0,0,1,0,0,0.25)
+  #stop
+  vol = (line 1, 0, inclusive: true, steps: 500).ramp
+  ptn = (ring 1,0,0.5,0,1,0,0.25,0.25,1,0.25,1,0,1,0,1,0.25)
   sample :bd_tek, amp: vol.tick * ptn.look
   sleep 0.25
 end

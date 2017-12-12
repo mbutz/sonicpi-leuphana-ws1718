@@ -5,7 +5,7 @@
 # 'control' running synths
 #########################################################################
 
-uncomment do
+comment do
   my_tone = play :c4, release: 4
   sleep 1
   control my_tone, note: :c5, note_slide: 0.5
@@ -16,21 +16,25 @@ end
 
 comment do
   live_loop :panning do
-    s = synth :fm, note: :e4, pan: -1, attack: 2, release: 4, amp: 0
+    s = synth :fm, note: :e4, pan: -1, release: 1, amp: 0
     control s, pan: 1, amp: 3, pan_slide: 2, amp_slide: 6
     sleep 4
-    control s, pan: -1, pan_slide: 2
-    sleep 6
+    # control s, pan: -1, pan_slide: 2
+    # sleep 6
+    sleep 4
   end
 end
 
 # (Modified) Example for use of 'control' from documentation
 comment do
-  notes = (scale :e3, :minor_pentatonic, num_octaves: 2).shuffle
-  s = synth :dtri, cutoff: 70, note: :e3, sustain: 8, note_slide: 0.05
-  64.times do
-    control s, note: notes.tick
-    sleep 0.125
+  live_loop :test do
+    stop
+    notes = (scale :e3, :minor_pentatonic, num_octaves: 2).shuffle
+    s = synth :dtri, cutoff: 70, note: :e3, sustain: 8
+    64.times do
+      control s, note: notes.tick, note_slide: 0.005
+      sleep 0.125
+    end
   end
 end #comment
 
@@ -138,8 +142,6 @@ end
 #########################################################################
 # 'control' effects
 #########################################################################
-
-
 
 comment do
   live_loop :who_marvin do
