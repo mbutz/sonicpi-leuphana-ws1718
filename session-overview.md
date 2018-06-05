@@ -120,6 +120,7 @@ Datum: 12.12.2017
 
 - WDR3 Studio Elektronische Musik Stockhausen - Kontakte, Radio-Feature online:  https://www.youtube.com/watch?v=kBP1v29cx60
 - Karlheinz Stockhausen (1978): Die vier Kriterien der elektronischen Musik, in: Texte zur Musik, Bd. 4, Köln: DuMont, S. 360-401; als Skript eines Vortrag vom 14.09.72 online: http://www.elektropolis.de/ssb_story_stockhausen.htm
+- Ableton Loop 2017: Adam Neely discovers that literally everything is rhythm as he investigates the connections between synaesthesia, the Harmony of the Spheres, Isaac Newton, pitch and polyrhythms: https://www.youtube.com/watch?v=JiNKlhspdKg
 
 ## Session 6: Elektronische Musik II: Electronica, musikalische Analyse
 
@@ -199,6 +200,8 @@ How do Synthesizers work, http://www.explainthatstuff.com/synthesizers.html, (ba
 The Physics Hypertextbook. Music & Noise, Glenn Elert, http://physics.info/music/
 
 Amplitude Modulation. An interactive demo which enables you to both see and hear the result of multiplying a sine wave with a cosine amplitude envelope, https://academo.org/demos/amplitude-modulation/
+
+Scott's Modular Synth Clinic | Introductory Class, https://www.youtube.com/watch?v=LBY-AtQwP_M, an introduction to modular synthesizers and additive and subtraktive synthesis
 
 An Introduction to FM Synthesis,  http://flypaper.soundfly.com/produce/an-introduction-to-fm-synthesis/
 
