@@ -171,6 +171,8 @@ The 14 pieces of software that shaped modern music, by John Twells, Oct 1 2016, 
 
 **Samples (Download)**
 
+The Converse Sample Library, https://www.conversesamplelibrary.com/, is a growing collection of audio samples recorded at Converse Rubber Tracks studios. The library is free to use and all samples are completely royalty free – no strings attached. 
+
 Sampleswap: This exquisite hand-picked collection of original 16-bit 44khz samples is entirely free—as it has been since 2001 when I started organizing this library..., http://sampleswap.org/
 
 Freesound.org: Freesound aims to create a huge collaborative database of audio snippets, samples, recordings, bleeps, ... released under Creative Commons licenses that allow their reuse, http://www.freesound.org
@@ -224,6 +226,8 @@ Dance Music Rudiments, Free E-Book with Audio Examples and Midi Files, http://us
 
 Equalization 101 – Everything Musicians Need to Know About EQ, http://flypaper.soundfly.com/produce/equalization-101-everything-musicians-need-know-eq/
 
+Understanding Basic Music Theory by: Catherine Schmidt-Jones, https://cnx.org/contents/KtdLe6cv@3.74:_GmJ4ENa@7/Understanding-Basic-Music-Theo
+
 **Midi & OSC (Open Sound Control)
 
 This MIDI tutorial will help you to understand how you can use the MIDI language to control any device that uses the MIDI protocol, http://www.music-software-development.com/midi-tutorial.html
@@ -231,6 +235,8 @@ This MIDI tutorial will help you to understand how you can use the MIDI language
 **Kreativität & Ästhetik**
 
 DeSantis, Dennis (2015): Making Music. 74 Creative Strategies for Electronic Music Producers, Berlin: Ableton.
+
+Robert Henke (Ableton): Give Me Limits!, https://www.youtube.com/watch?v=iwOaYxSJGqI, CIEMMT, 24 March 2016 - Tanna Schulich Hall. Henke vertritt die These, dass ein Mehr an instrumentellen Möglichkeiten den kreativen Prozess nicht mehr befördert, sondern de facto zunehmend behindern kann. Als Ausweg plädiert er für die bewusste Beschränkung.
 
 Bense, Arne (2016): Live – eine gelöschte Unterscheidung, Blogbeitrag vom 12.08.2016, letzter Abruf am: 10.10.2016, https://netzpolitik.org/2016/live-eine-geloeschte-unterscheidung/
 Was bedeutet eigentlich „live“? Obwohl die Beantwortung dieser Frage alles andere als trivial ist, geistert der Begriff durch die Welt der elektronischen Musik und trennt die Szene in elektronische Live- und DJ-Culture.
@@ -255,6 +261,8 @@ Live coding dub techno in Sonic Pi von Jindřich Mynarz, https://www.youtube.com
 
 Earth To Abigail, Jungle Rhythms - Live Coding Session with Sonic Pi
 https://m.youtube.com/watch?v=AuNNYn2BQYU
+
+Monolake Live, Sydney 2006 (kein 'live coding' im strengen Sinn, sondern Ableton Live Performance): https://www.youtube.com/watch?v=15nVbbXFf6M
 
 Martin Butz, (mostly) Live coded tracks, https://www.youtube.com/channel/UCT_roO1KTLkJTO-4qQPe_kg; tracks made with Sonic Pi and some postproduction, https://soundcloud.com/mbutz/tracks
 
